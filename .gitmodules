@@ -1,0 +1,21 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/Falitomal/Libft-42
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/Falitomal/ft_printf
+[submodule "Get_next_line"]
+	path = Get_next_line
+	url = https://github.com/Falitomal/get_next_line/
+[submodule "Push_Swap"]
+	path = Push_Swap
+	url = https://github.com/Falitomal/Push_Swap
+[submodule "So_long"]
+	path = So_long
+	url = https://github.com/Falitomal/So_long
+[submodule "Minitalk"]
+	path = Minitalk
+	url = https://github.com/Falitomal/Minitalk
+[submodule "My_Libft"]
+	path = My_Libft
+	url = https://github.com/Falitomal/Libft-Plus
